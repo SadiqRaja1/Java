@@ -1,0 +1,31 @@
+Question 4 : READ & CODE EXERCISE
+Search about(Google) & use the following methods of the Math class in Java:
+a. Math.min( )
+b. Math.max( )
+c. Math.sqrt( )
+d. Math.pow( )
+e. Math.avg( )
+f. Math.abs( )
+
+
+Answer:
+a. Math.min( )
+The Java.lang.math.min() function is an inbuilt function in java that returns the minimum of two numbers.
+
+b. Math.max( )
+ The Java.lang.math.max() function is an inbuilt function in Java which returns maximum of two numbers.
+
+c. Math.sqrt( )
+The java.lang.Math.sqrt() returns the square root of a value of type double passed to it as argument.
+
+d. Math.pow( )
+The java.lang.Math.pow() is used to calculate a number raise to the power of some other number.
+
+e. Math.avg( ) 
+Not Fininding any thing --------------------------------
+
+f. Math.abs( )
+The java.lang.Math.abs() returns the absolute value of a given argument. 
+
+If the argument is not negative, the argument is returned.
+If the argument is negative, the negation of the argument is returned.
